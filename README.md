@@ -1,1 +1,1 @@
-# Renowned-clustering-methods-from-scratch-and-Semi_Supervised-Learning-and-basic-statistics
+# Renowned-clustering-methods-from-scratch-and-Semi-Supervised-Learning-and-basic-statistics
